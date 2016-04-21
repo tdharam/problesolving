@@ -6,7 +6,7 @@ package com.problems.commonProbs;
 public class mMain {
 
     public static void main(String st[]){
-        System.out.println("Comparison Failed");
+        System.out.println("Comparison   ");
         Problem1.fun();
     }
 
